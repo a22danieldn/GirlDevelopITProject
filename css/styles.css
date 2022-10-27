@@ -1,0 +1,31 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2 {
+    color: #006400;
+}
+
+em, strong {
+    color: #FFA500;
+}
+
+form {
+    color: #8b004e;
+}
+
+td { 
+    color: #0000ff;
+}
+
+td:nth-child(2) { 
+    color: #800080;
+}
+
+ul > li > ul > li {
+    color: #ff6262;
+}
+
+a:visited {
+    color: #b3d8e6;
+  }
